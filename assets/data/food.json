@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Bananen",
+    "waterPerLiter": "50.3"
+  },
+  {
+    "name": "Apfel",
+    "waterPerLiter": "20.3"
+  },
+  {
+    "name": "Tomate",
+    "waterPerLiter": "40.3"
+  }
+]

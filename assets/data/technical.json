@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Handy",
+    "waterPerLiter": "50.3"
+  },
+  {
+    "name": "Mac",
+    "waterPerLiter": "20.3"
+  },
+  {
+    "name": "PC",
+    "waterPerLiter": "40.3"
+  }
+]

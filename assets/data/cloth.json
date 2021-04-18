@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Jeans",
+    "waterPerLiter": "50.3"
+  },
+  {
+    "name": "Pulli",
+    "waterPerLiter": "20.3"
+  },
+  {
+    "name": "T-Shirt",
+    "waterPerLiter": "40.3"
+  }
+]
